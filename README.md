@@ -1,6 +1,9 @@
 # SDXL_COLAB_DIFFUSERS_CONVERT
 At your own risk, SDXL safetensors to Diffusers.
-
+<a target="_blank" href="https://colab.research.google.com/github/duskfallcrew/SDXL_COLAB_DIFFUSERS_CONVERT">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+---
 # **SDXL Model Converter Colab Edition**
 
 > ## **⚠️ IMPORTANT: Google Colab AUP Warning & Xformers Disclaimer ⚠️**
