@@ -1,4 +1,8 @@
 # **SDXL Model Converter Colab Edition**
+
+Gradio, Python and Colab tools to convert SDXL to diffusers.
+Use at own risk: Not just because AUP, but because i haven't had a chance to clean the Gemini over-kill of the "IPYWIDGETS" thing - and I am exhausted.
+
 ---
 ## **⚠️IMPORTANT: Google Colab AUP Warning & Xformers Disclaimer⚠️**
 ---
