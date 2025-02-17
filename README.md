@@ -6,13 +6,13 @@
 This Google Colab notebook includes tools from the `kohya-ss/sd-scripts` repository, which is **primarily designed for training Stable Diffusion models**. Using this code may cause your Google Colab account to be flagged for violating the Google Colab Acceptable Use Policy (AUP), **even if you are not actively training a model**.
 
 **⚠️ IMPORTANT AUP RISK:**
- Using this notebook carries a **significant risk of AUP violations** which may lead to the suspension of your Google Colab account and it is provided **AS-IS** 
+ Using this notebook carries a **significant risk of AUP violations** which may lead to the suspension of your Google Colab account and it is provided **AS-IS**  While it's not explicitly stated within the AUP, nor terms of service, slowdowns and over use on the free plans could lead to account strikes or removal. Please be aware that Ktiseos Nyx, Duskfallcrew, and even Google are not at fault for what pranks you try and pull with the AUP.
 
  **⚠️ XFORMERS WARNING:**
  The `xformers` library may not be compatible with all hardware configurations or versions of PyTorch, and it may lead to errors. The use of `xformers` and the reliability of this code is entirely at your own risk.
 
- **⚠️AUP RISK⚠️**
- While it's not explicitly stated within the AUP, nor terms of service, slowdowns and over use on the free plans could lead to account strikes or removal. Please be aware that Ktiseos Nyx, Duskfallcrew, and even Google are not at fault for what pranks you try and pull with the AUP.
+ **⚠️GRADIO AND PYTHON⚠️**
+I am not a natural programmer. I have yet to test all of the extra files included except for the one that came from Linaqruf's original repository. If there is an issue feel free to open an issue case and i'll try and solve it.  Gradio MAY or may not work, i dont know how that works yet give me time.
 
  Be patient. Be kind. Rewind.
 
