@@ -3,6 +3,10 @@
 Gradio, Python and Colab tools to convert SDXL to diffusers.
 Use at own risk: Not just because AUP, but because i haven't had a chance to clean the Gemini over-kill of the "IPYWIDGETS" thing - and I am exhausted.
 
+<a target="_blank" href="https://colab.research.google.com/github/Ktiseos-Nyx/Sdxl-to-diffusers/blob/main/2025_ConvertDiffusers_KtiseosNyx.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 Please note: 
 "OPEN IN COLAB" is not working at the moment, please download the Colab and put it in drive.
 
